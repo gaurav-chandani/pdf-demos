@@ -30,7 +30,7 @@ class PdfTextExtractor
     static void Main(string[] args)
     {
         // TODO: Specify the URL of your PDF document here. 
-        string pdfUrl = "http://www.better-fundraising-ideas.com/support-files/the-best-snail-jokes.pdf";
+        string pdfUrl = "https://www.harvesthousepublishers.com/data/files/excerpts/9780736948487_exc.pdf";
 
         PdfTextExtractor pdfTextExtractor = new PdfTextExtractor();
         try {

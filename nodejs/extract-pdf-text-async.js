@@ -10,7 +10,7 @@ var clientId = "FREE_TRIAL_ACCOUNT";
 var clientSecret = "PUBLIC_SECRET";
 
 // TODO: Specify the URL of your PDF document 
-var url = "http://www.lbcc.edu/WRSC/documents/SummaryBasicGrammar.pdf";
+var url = "https://www.plainenglish.co.uk/files/partsofspeech.pdf";
 var headers = {
       "X-WM-CLIENT-ID": clientId,
       "X-WM-CLIENT-SECRET": clientSecret,

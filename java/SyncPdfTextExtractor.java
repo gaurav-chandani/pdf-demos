@@ -18,7 +18,7 @@ public class SyncPdfTextExtractor {
   public static void main(String[] args) throws Exception {
     // TODO: Specify the URL of your small PDF document (less than 1MB and 10 pages)
     // To extract text from bigger PDf document, you need to use the async method.
-    String url = "http://www.lbcc.edu/WRSC/documents/SummaryBasicGrammar.pdf";
+    String url = "https://www.plainenglish.co.uk/files/partsofspeech.pdf";
     SyncPdfTextExtractor.extractText(url);
   }
 

@@ -8,7 +8,7 @@ clientId = "FREE_TRIAL_ACCOUNT"
 clientSecret = "PUBLIC_SECRET"
 
 # TODO: Specify the URL of your PDF document
-url = "http://www.lbcc.edu/WRSC/documents/SummaryBasicGrammar.pdf"
+url = "https://www.plainenglish.co.uk/files/partsofspeech.pdf"
 
 headers = {
     'X-WM-CLIENT-ID': clientId, 

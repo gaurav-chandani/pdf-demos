@@ -8,7 +8,7 @@ var clientSecret = "PUBLIC_SECRET";
 
 // TODO: Specify the URL of your small PDF document (less than 1MB and 10 pages)
 // To extract text from bigger PDf document, you need to use the async method.
-var url = "http://www.lbcc.edu/WRSC/documents/SummaryBasicGrammar.pdf";
+var url = "https://www.plainenglish.co.uk/files/partsofspeech.pdf";
 var options = {
     hostname: "api.whatsmate.net",
     port: 80,

@@ -6,8 +6,7 @@ CLIENT_SECRET="PUBLIC_SECRET"
 
 # TODO: Specify the URL of your small PDF document (less than 1MB and 10 pages)
 # To extract text from bigger PDf document, you need to use the async method.
-url="http://www.better-fundraising-ideas.com/support-files/the-best-snail-jokes.pdf"
-
+url="https://www.harvesthousepublishers.com/data/files/excerpts/9780736948487_exc.pdf"
 
 curl -X GET \
      -H "X-WM-CLIENT-ID: $CLIENT_ID" \

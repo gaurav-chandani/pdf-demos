@@ -25,7 +25,7 @@ public class AsyncPdfTextExtractor {
      */
     public static void main(String[] args) throws Exception {
         // TODO: Specify the URL of your PDF document
-        String pdfUrl = "http://www.lbcc.edu/WRSC/documents/SummaryBasicGrammar.pdf";
+        String pdfUrl = "https://www.plainenglish.co.uk/files/partsofspeech.pdf";
 
         String jobId = AsyncPdfTextExtractor.submitJob(pdfUrl);
         System.out.println("Job ID is " + jobId);

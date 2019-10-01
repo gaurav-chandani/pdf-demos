@@ -5,7 +5,7 @@ CLIENT_ID="FREE_TRIAL_ACCOUNT"
 CLIENT_SECRET="PUBLIC_SECRET"
 
 # TODO: Specify the URL of your PDF document
-url="http://www.lbcc.edu/WRSC/documents/SummaryBasicGrammar.pdf"
+url="https://www.plainenglish.co.uk/files/partsofspeech.pdf"
 
 function pdfApi() {
     fullUrl=$1
